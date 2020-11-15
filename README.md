@@ -1,0 +1,1 @@
+This is Michal first git project
